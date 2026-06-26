@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Profile Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Profile Banner" width="300">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Shahadot Hossain</h1>
