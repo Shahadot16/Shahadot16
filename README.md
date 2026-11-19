@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
+  <b>Md. Shahadot Hossain</b> &mdash; MERN Stack Web Developer<br>
+  <sub>JavaScript · React · Node.js · Express · MongoDB · HTML · CSS · Tailwind CSS</sub>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahadot16&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
