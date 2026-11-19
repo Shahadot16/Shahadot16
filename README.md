@@ -1,96 +1,77 @@
 <!-- ===== PROFILE PHOTO ===== -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Md. Shahadot Hossain" width="340">
+  <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Md. Shahadot Hossain" width="300">
 </p>
 
-<!-- ===== ANIMATED HEADER ===== -->
+<!-- ===== NAME + ANIMATED TITLE ===== -->
 <h1 align="center">Hi 👋, I'm Md. Shahadot Hossain</h1>
 
 <p align="center">
   <a href="https://github.com/Shahadot16">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;I+build+things+with+React%2C+Node.js+%26+MongoDB;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ===== PROFILE VIEWS ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahadot16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shahadot16&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
-<br>
+---
 
-<!-- ===== ABOUT ===== -->
-<h3 align="center">⚡ About Me</h3>
+## 👨‍💻 About Me
 
-<p align="center">
-  🔭 &nbsp;Currently working on <b>Internship</b> &nbsp;•&nbsp;
-  🌱 &nbsp;Learning <b>JavaScript</b> <br>
-  👯 &nbsp;Open to collaborate on <b>GitHub</b> &nbsp;•&nbsp;
-  💬 &nbsp;Ask me about <b>Web Development</b>
-</p>
+- 🔭 I'm currently working on an **Internship**
+- 🌱 I'm currently learning **JavaScript**
+- 💻 I build modern web apps with the **MERN** stack (MongoDB, Express, React, Node.js)
+- 👯 I'm looking to collaborate on **GitHub** projects
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **shahadotraj1@gmail.com**
 
-<br>
+---
 
-<!-- ===== CONNECT ===== -->
-<h3 align="center">🌐 Connect With Me</h3>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="mailto:shahadotraj1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahadotraj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mdshahadot.hossain.96343" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/shahadotraj1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<br>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- ===== TECH STACK ===== -->
-<h3 align="center">🛠️ Languages &amp; Tools</h3>
+### Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+---
 
-<br>
+## 🌐 Connect With Me
 
-<!-- ===== GITHUB STATS ===== -->
-<h3 align="center">📊 GitHub Statistics</h3>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahadotraj1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadotraj/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdshahadot.hossain.96343)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahadotraj1/)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahadot16&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadot16&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahadot16&show_icons=true&locale=en&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadot16&layout=compact&locale=en&theme=tokyonight&hide_border=true) |
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadot16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahadot16&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
+---
 
-<br>
-
-<!-- ===== FOOTER ===== -->
 <p align="center">
   <i>✨ Thanks for visiting! Let's build something great together. ✨</i>
 </p>
