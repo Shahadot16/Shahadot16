@@ -3,6 +3,11 @@
   <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Profile Banner" width="340">
 </p>
 
+<!-- ===== PROFILE PHOTO ===== -->
+<p align="center">
+  <img src="./assets/profile.png" alt="Md. Shahadot Hossain" width="160" />
+</p>
+
 <!-- ===== ANIMATED HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Md. Shahadot Hossain</h1>
 
