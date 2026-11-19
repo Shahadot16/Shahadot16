@@ -2,8 +2,12 @@
   <img src="https://github.com/user-attachments/assets/f3d5f083-8101-4d1f-b281-6c5ac500cc90" alt="Profile Banner" width="300">
 </p>
 
+<p align="center">
+  <img src="./assets/profile.jpg" alt="Md. Shahadot Hossain" width="160" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Shahadot Hossain</h1>
-<h3 align="center">Full Stack Web Development</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=shahadot16&label=Profile%20views&color=0e75b6&style=flat" alt="shahadot16" />  
